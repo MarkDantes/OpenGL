@@ -1,12 +1,2 @@
 C:\Users\amirk\source\repos\square\x64\Debug\square.exe
-C:\GitProjects\OpenGL\x64\Debug\square.vcxproj.CopyComplete
 C:\GitProjects\OpenGL\x64\Debug\square.exe
-C:\GitProjects\OpenGL\x64\Debug\sfml-graphics-d-2.dll
-C:\GitProjects\OpenGL\x64\Debug\sfml-window-d-2.dll
-C:\GitProjects\OpenGL\x64\Debug\sfml-system-d-2.dll
-C:\GitProjects\OpenGL\x64\Debug\freetyped.dll
-C:\GitProjects\OpenGL\x64\Debug\zlibd1.dll
-C:\GitProjects\OpenGL\x64\Debug\bz2d.dll
-C:\GitProjects\OpenGL\x64\Debug\libpng16d.dll
-C:\GitProjects\OpenGL\x64\Debug\brotlidec.dll
-C:\GitProjects\OpenGL\x64\Debug\brotlicommon.dll
